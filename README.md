@@ -19,6 +19,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh16-mishra&show_icons=true&locale=en&layout=compact" alt="ashutosh16-mishra" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh16-mishra&show_icons=true&locale=en" alt="ashutosh16-mishra" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh16-mishra&" alt="ashutosh16-mishra" /></p>
